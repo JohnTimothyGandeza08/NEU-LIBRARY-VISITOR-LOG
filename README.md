@@ -13,5 +13,5 @@ A comprehensive web-based visitor management system for New Era University Libra
 - **Full System Access** - All admin features plus user management
 
 ### Project
-- [NEU LIBRARY VISITOR LOG](gandeza-neu-library.page.gd)
+- [NEU LIBRARY VISITOR LOG](https://gandeza-neu-library.page.gd)
 - [Project Files](https://drive.google.com/drive/folders/1W1we4waEb6hBDpS_T4DZbygtjeyrnS5l?usp=sharing)
